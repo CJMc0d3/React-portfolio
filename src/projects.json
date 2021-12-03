@@ -1,0 +1,23 @@
+[
+    {
+        "id" : 0,
+        "name": "Book talk",
+        "url": "https://riveranelson99.github.io/p1_movie_roullete/",
+        "github": "https://github.com/SThompsonChicago/book-club",
+        "image" : "booktalk"
+    },
+    {
+        "id" : 1,
+        "name": "Movie Roulette",
+        "url": "https://riveranelson99.github.io/p1_movie_roullete/",
+        "github": "https://github.com/riveranelson99/p1_movie_roullete/",
+        "image" : "Movieroulette"
+    }, 
+    {
+        "id" : 2,
+        "name": "note-taker-app",
+        "url": "https://note-taker-app-three.vercel.app/",
+        "github": "https://github.com/CJMc0d3/note-taker-app",
+        "image" : "notetaker"
+    }
+]
